@@ -19,7 +19,7 @@ To install and set up the project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/crumbling-dungeon.git
+    git clone https://github.com/AlexanderTerezov/crumbling-dungeon.git
     cd crumbling-dungeon
     ```
 2. **Create a virtual environment:**
